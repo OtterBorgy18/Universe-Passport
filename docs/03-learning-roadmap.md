@@ -9,7 +9,7 @@ This project should be developed as a guided learning journey, similar in spirit
 
 ## Phase 1 — Project bootstrap
 Goals:
-- create the .NET 10 solution
+- create the .NET 11 solution
 - create the Blazor Web App project
 - verify the app launches locally
 - understand the default project structure

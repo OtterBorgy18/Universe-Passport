@@ -1,6 +1,6 @@
 # Universe Passport
 
-Universe Passport is a GitHub Universe 2026 event companion built with .NET 10 and Blazor Web App.
+Universe Passport is a GitHub Universe 2026 event companion built with .NET 11 and Blazor Web App.
 
 The project is designed as a guided event experience inspired by the clarity and structure of Microsoft Learn:
 - discover sessions as learning modules
@@ -10,12 +10,12 @@ The project is designed as a guided event experience inspired by the clarity and
 - stay updated with live event announcements
 
 ## Current project direction
-This project is intentionally aligned with a .NET 10 + Blazor architecture rather than the earlier Next.js version.
+This project is intentionally aligned with a .NET 11 + Blazor architecture rather than the earlier Next.js version.
 The repository keeps legacy notes for historical reference, but the active implementation plan is the Blazor-based version.
 
 ## Repository structure
 - `/docs` — project planning and architecture documentation
-- `/UNIVERSE_PASSPORT_PROPOSAL.md` — historical proposal retained for context
+- `/docs/legacy/UNIVERSE_PASSPORT_PROPOSAL.md` — historical proposal retained for context
 
 ## Planned technology stack
 - .NET 10

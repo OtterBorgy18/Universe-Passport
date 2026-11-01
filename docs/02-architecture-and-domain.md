@@ -1,7 +1,7 @@
 # Architecture and Domain Model
 
 ## Architecture direction
-The project should be built as a Blazor Web App in .NET 10, with a clear separation between:
+The project should be built as a Blazor Web App in .NET 11, with a clear separation between:
 - UI layer
 - domain / business logic
 - persistence layer
